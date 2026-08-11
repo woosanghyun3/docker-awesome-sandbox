@@ -10,3 +10,7 @@ func TestMax(t *testing.T) {
 	_ = Max // smoke: symbol exists
 }
 
+func TestMin(t *testing.T) {
+	_ = Min // smoke: symbol exists
+}
+
